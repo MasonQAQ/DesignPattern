@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ec09473-f782-4df4-bfbe-0066aabdfdb3" name="Default" comment="" />
+    <list default="true" id="6ec09473-f782-4df4-bfbe-0066aabdfdb3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/CallFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Function.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/InternetFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Iphone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/MessagerFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Phone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/_Init_.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p03_decorator_pattern/BigTrouser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p03_decorator_pattern/Finery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p03_decorator_pattern/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p03_decorator_pattern/Tshirts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p03_decorator_pattern/Woman.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p03_decorator_pattern/_Init_.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/p03_decorator_pattern/BigTrouser.java" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/BigTrouser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/p03_decorator_pattern/Finery.java" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Finery.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/p03_decorator_pattern/Person.java" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Person.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/p03_decorator_pattern/Tshirts.java" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Tshirts.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/p03_decorator_pattern/Woman.java" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Woman.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/p03_decorator_pattern/_Init_.java" afterPath="$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/_Init_.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,107 +43,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CashNormal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashNormal.java">
+      <file leaf-file-name="Phone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Phone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CashContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashContext.java">
+      <file leaf-file-name="Iphone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Iphone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CashReturn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashReturn.java">
+      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Function.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallFunction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/CallFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Person.java">
+      <file leaf-file-name="_Init_.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/_Init_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Woman.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Woman.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-              <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Finery.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Finery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tshirts.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Tshirts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="225">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BigTrouser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/BigTrouser.java">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/BigTrouser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="_Init_.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/_Init_.java">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/_Init_.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessagerFunction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/MessagerFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InternetFunction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/InternetFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Finery.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Finery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,14 +199,22 @@
         <option value="$PROJECT_DIR$/src/p02_com/strategy_pattern/shop/_Init_.java" />
         <option value="$PROJECT_DIR$/src/p02_com/strategy_pattern/shop/CashContext.java" />
         <option value="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashContext.java" />
-        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/Tshirts.java" />
-        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/BigTrouser.java" />
         <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/_Init.java" />
         <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/Man.java" />
         <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/Person.java" />
         <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/Woman.java" />
         <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/_Init_.java" />
         <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/Finery.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/Tshirts.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/BigTrouser.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Woman.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Phone.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Iphone.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/CallFunction.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/MessagerFunction.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/InternetFunction.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Function.java" />
+        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/_Init_.java" />
       </list>
     </option>
   </component>
@@ -203,7 +236,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -238,6 +271,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DesignPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p03_decorator_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -360,11 +415,11 @@
     <configuration default="false" name="_Init_ (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.p03_decorator_pattern.*" />
+          <option name="PATTERN" value="com.p03_decorator_pattern.phone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.p03_decorator_pattern._Init_" />
+      <option name="MAIN_CLASS_NAME" value="com.p03_decorator_pattern.phone._Init_" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -799,12 +854,11 @@
       <item index="4" class="java.lang.String" itemvalue="Application._Init_ (3)" />
     </list>
     <recent_temporary>
-      <list size="5">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Application._Init_ (3)" />
         <item index="1" class="java.lang.String" itemvalue="Application._Init_ (1)" />
         <item index="2" class="java.lang.String" itemvalue="Application._Init_ (2)" />
         <item index="3" class="java.lang.String" itemvalue="Application._Init_" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Init" />
       </list>
     </recent_temporary>
   </component>
@@ -819,7 +873,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487922072332</updated>
       <workItem from="1487922090606" duration="3344000" />
-      <workItem from="1487934632076" duration="6873000" />
+      <workItem from="1487934632076" duration="9379000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1487954497355</created>
@@ -832,7 +886,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10217000" />
+    <option name="totallyTimeSpent" value="12723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="0" />
@@ -885,7 +939,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -893,30 +949,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/AddOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/OperationFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/SubOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1139,48 +1171,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Woman.java">
+    <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Tshirts.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/BigTrouser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/_Init_.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Tshirts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1188,14 +1203,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/Finery.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Woman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Iphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/Finery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/MessagerFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/InternetFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/CallFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/BigTrouser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

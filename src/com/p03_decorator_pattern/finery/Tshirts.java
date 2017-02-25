@@ -1,4 +1,4 @@
-package com.p03_decorator_pattern;
+package com.p03_decorator_pattern.finery;
 
 /**
  * Created by yangyue on 2017/2/25.
@@ -6,7 +6,7 @@ package com.p03_decorator_pattern;
 public class Tshirts extends Finery {
     @Override
     public void show() {
-        System.out.println("T恤");
         super.show();
+        System.out.println("T恤");
     }
 }
