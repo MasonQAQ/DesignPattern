@@ -1,6 +1,7 @@
 package com.p01_simple_factory_pattern.calculate;
 
 /**
+ * Operation
  * Created by yangyue on 2017/2/24.
  */
 public abstract class Operation {

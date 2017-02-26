@@ -7,6 +7,6 @@ package com.p01_simple_factory_pattern.calculate;
 public class SubOperation extends Operation{
     @Override
     public double getResult() {
-        return getNumberA()-getNumberB();
+        return getNumberA() - getNumberB();
     }
 }
