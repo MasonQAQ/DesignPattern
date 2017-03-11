@@ -5,8 +5,9 @@ package com.p02_strategy_pattern.shop;
  * Created by yangyue on 2017/2/24.
  */
 public class CashReturn extends CashSuper {
-    private double retMoney = 0;
-    private double retCondition = 0;
+
+    private double retMoney = 100;
+    private double retCondition = 300;
 
     public CashReturn() {
     }

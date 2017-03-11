@@ -5,7 +5,7 @@ package com.p02_strategy_pattern.shop;
  * Created by yangyue on 2017/2/24.
  */
 public class CashRebate extends CashSuper {
-    private double moneyRebate = 1; //默认为1
+    private double moneyRebate = 0.8; //默认为0.8
 
     public CashRebate() {
     }

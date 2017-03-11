@@ -2,11 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ec09473-f782-4df4-bfbe-0066aabdfdb3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/ExamPaper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentAPaper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentBPaper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/p11/database.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashContextUseReflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p08_facade_pattern/decorate_house/Bed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p08_facade_pattern/decorate_house/Decorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p08_facade_pattern/decorate_house/Sofa.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p08_facade_pattern/decorate_house/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p09_builder_pattern/person/FatPersonBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p09_builder_pattern/person/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p09_builder_pattern/person/PersonBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p09_builder_pattern/person/PersonDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p09_builder_pattern/person/ThinPersonBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p09_builder_pattern/person/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/UserDaoAccessFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/UserDaoFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/UserDaoImpAccess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/UserDaoImpMysql.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/UserDaoMysqlFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_abstract_factory/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/DataAccess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/DataAccessUseReflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/UserDaoImpAccess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/UserDaoImpMysql.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/tv/StartState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/tv/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/tv/StopState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/tv/TVContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/tv/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work/ConcreteStateA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work/ConcreteStateB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work/Context.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work2/AfterNoonState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work2/Firm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work2/MorningState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work2/NoonState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work2/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p12_state_pattern/work2/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Center.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignCenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignForward.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Forward.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Translator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p14_memento_pattern/game/GameRole.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p14_memento_pattern/game/RoleStateCaretaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p14_memento_pattern/game/RoleStateMemento.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p14_memento_pattern/game/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p15_composite_pattern/company/Company.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p15_composite_pattern/company/ConcreteCompany.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p15_composite_pattern/company/FinanceDepartment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p15_composite_pattern/company/HRDepartment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p15_composite_pattern/company/StringUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p15_composite_pattern/company/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/Aggregate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/ConcreteAggregate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/ConcreteIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/Iterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/_Init_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetBrand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetSoft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MBrand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MessageSoft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/PhoneSoft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/_Init_.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p02_strategy_pattern/shop/CashRebate.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/p02_strategy_pattern/shop/CashRebate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p02_strategy_pattern/shop/CashReturn.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/p02_strategy_pattern/shop/CashReturn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/p02_strategy_pattern/shop/_Init_.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/p02_strategy_pattern/shop/_Init_.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashRebate.java" afterPath="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashRebate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashReturn.java" afterPath="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashReturn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/_Init_.java" afterPath="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/_Init_.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/_Init_.java" afterPath="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/_Init_.java" />
     </list>
     <ignored path="DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,53 +103,119 @@
     <favorites_list name="DesignPattern" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExamPaper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/ExamPaper.java">
+    <leaf>
+      <file leaf-file-name="StringUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/StringUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentAPaper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentAPaper.java">
+      <file leaf-file-name="HandSetBrand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetBrand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="369">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MBrand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MBrand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
               <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
+                <marker date="1489113145000" expanded="true" signature="334:581" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentBPaper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentBPaper.java">
+      <file leaf-file-name="HandSetSoft.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetSoft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="_Init_.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/_Init_.java">
+        <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/_Init_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhoneSoft.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/PhoneSoft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageSoft.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MessageSoft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinanceDepartment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/FinanceDepartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+              <folding>
+                <element signature="e#219#220#0" expanded="false" />
+                <element signature="e#246#247#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Init_.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/_Init_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteCompany.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/ConcreteCompany.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <folding>
+                <element signature="e#329#330#0" expanded="false" />
+                <element signature="e#356#357#0" expanded="false" />
+                <element signature="e#410#411#0" expanded="false" />
+                <element signature="e#447#448#0" expanded="false" />
+                <element signature="e#504#505#0" expanded="false" />
+                <element signature="e#544#545#0" expanded="false" />
+                <element signature="e#822#823#0" expanded="false" />
+                <element signature="e#875#876#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +225,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Singleton" />
         <option value="Interface" />
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -103,57 +245,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/Function.java" />
-        <option value="$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/Operation.java" />
-        <option value="$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/AddOperation.java" />
-        <option value="$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/SubOperation.java" />
-        <option value="$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/OperationFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/GiveGift.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/Girl.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/Persuit.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/Proxy.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/InternetRequest.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/GoogleResource.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/Resource.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/AmericaServer.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/ChinaComputer.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/Operation.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/DivOperation.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/MulOperation.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/SubOperation.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/AddOperation.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/IFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/AddFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/MulFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/DivFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/SubFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/SubFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Leifeng.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/IFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/UndergraduateFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/VolunteerFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Volunteer.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Undergraduate.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/student/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/student/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/mail/Attachment.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/mail/Mail.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/mail/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_2/Attachment.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_2/_Init_.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_2/Email.java" />
-        <option value="$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_1/Email.java" />
-        <option value="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentPaper.java" />
-        <option value="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentAPaper.java" />
-        <option value="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentBPaper.java" />
-        <option value="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/ExamPaper.java" />
-        <option value="$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work/State.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work/Context.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work/ConcreteStateA.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work/ConcreteStateB.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work2/State.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work2/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work2/MorningState.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work2/AfterNoonState.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work2/NoonState.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/work2/Firm.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/tv/State.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/tv/tvContext.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/tv/StartState.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/tv/StopAction.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/tv/StopState.java" />
+        <option value="$PROJECT_DIR$/src/com/p12_state_pattern/tv/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashRebate.java" />
+        <option value="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashContextUseReflection.java" />
+        <option value="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashReturn.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Forward.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Center.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignCenter.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Translator.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignForward.java" />
+        <option value="$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p14_memento_pattern/game/RoleStateMemento.java" />
+        <option value="$PROJECT_DIR$/src/com/p14_memento_pattern/game/GameRole.java" />
+        <option value="$PROJECT_DIR$/src/com/p14_memento_pattern/game/RoleStateCaretaker.java" />
+        <option value="$PROJECT_DIR$/src/com/p14_memento_pattern/game/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p15_composite_pattern/company/Company.java" />
+        <option value="$PROJECT_DIR$/src/com/p15_composite_pattern/company/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/List.java" />
+        <option value="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/Aggregate.java" />
+        <option value="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/ConcreteAggregate.java" />
+        <option value="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/ConcreteIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/p16_iterator_pattern/list/_Init_.java" />
+        <option value="$PROJECT_DIR$/src/com/p15_composite_pattern/company/FinanceDepartment.java" />
+        <option value="$PROJECT_DIR$/src/com/p15_composite_pattern/company/HRDepartment.java" />
+        <option value="$PROJECT_DIR$/src/com/p15_composite_pattern/company/ConcreteCompany.java" />
+        <option value="$PROJECT_DIR$/src/com/p15_composite_pattern/company/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetBrand.java" />
+        <option value="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetSoft.java" />
+        <option value="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MessageSoft.java" />
+        <option value="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/PhoneSoft.java" />
+        <option value="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MBrand.java" />
+        <option value="$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/_Init_.java" />
       </list>
     </option>
   </component>
@@ -162,6 +304,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
@@ -193,9 +342,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,8 +379,22 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exam" />
+              <option name="myItemId" value="DesignPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,47 +408,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebProject/KoDesign" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Array&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Iterator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Iterator.java&#10;Arra&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/p05_factory_method_pattern" />
-      <recent name="$PROJECT_DIR$/src/p02_com/strategy_pattern/shop" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.p06_prototype_pattern.mail_2" />
-      <recent name="com.p05_factory_method_pattern" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.p11_abstract_factory_pattern.database_simple_factory" />
+      <recent name="com.p06_prototype_pattern.mail_2" />
+      <recent name="com.p05_factory_method_pattern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern" />
+      <recent name="$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory" />
+      <recent name="$PROJECT_DIR$/src/com/p05_factory_method_pattern" />
+      <recent name="$PROJECT_DIR$/src/p02_com/strategy_pattern/shop" />
+    </key>
   </component>
   <component name="RunManager" selected="Application._Init_ (4)">
-    <configuration default="false" name="_Init_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="_Init_ (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.p05_factory_method_pattern.calculate.*" />
+          <option name="PATTERN" value="com.p14_memento_pattern.game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.p05_factory_method_pattern.calculate._Init_" />
+      <option name="MAIN_CLASS_NAME" value="com.p14_memento_pattern.game._Init_" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -302,11 +465,11 @@
     <configuration default="false" name="_Init_ (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.p05_factory_method_pattern.leifeng.*" />
+          <option name="PATTERN" value="com.p15_composite_pattern.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.p05_factory_method_pattern.leifeng._Init_" />
+      <option name="MAIN_CLASS_NAME" value="com.p15_composite_pattern.company._Init_" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -319,14 +482,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="_Init_ (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ConcreteAggregate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.p06_prototype_pattern.student.*" />
+          <option name="PATTERN" value="com.p16_iterator_pattern.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.p06_prototype_pattern.student._Init_" />
+      <option name="MAIN_CLASS_NAME" value="com.p16_iterator_pattern.list.ConcreteAggregate" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -342,11 +505,11 @@
     <configuration default="false" name="_Init_ (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.p06_prototype_pattern.mail_2.*" />
+          <option name="PATTERN" value="com.p16_iterator_pattern.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.p06_prototype_pattern.mail_2._Init_" />
+      <option name="MAIN_CLASS_NAME" value="com.p16_iterator_pattern.list._Init_" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -362,11 +525,11 @@
     <configuration default="false" name="_Init_ (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.p07_template_method_pattern.Exam.*" />
+          <option name="PATTERN" value="com.p17_bridge_pattern.phone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.p07_template_method_pattern.Exam._Init_" />
+      <option name="MAIN_CLASS_NAME" value="com.p17_bridge_pattern.phone._Init_" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -794,18 +957,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._Init_" />
+      <item index="0" class="java.lang.String" itemvalue="Application._Init_ (1)" />
       <item index="1" class="java.lang.String" itemvalue="Application._Init_ (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application._Init_ (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConcreteAggregate" />
       <item index="3" class="java.lang.String" itemvalue="Application._Init_ (3)" />
       <item index="4" class="java.lang.String" itemvalue="Application._Init_ (4)" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application._Init_ (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Application._Init_ (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Application._Init_ (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application._Init_ (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application._Init_ (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application._Init_ (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ConcreteAggregate" />
+        <item index="4" class="java.lang.String" itemvalue="Application._Init_ (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -824,7 +988,12 @@
       <updated>1487922072332</updated>
       <workItem from="1487922090606" duration="3344000" />
       <workItem from="1487934632076" duration="12453000" />
-      <workItem from="1488110862053" duration="10645000" />
+      <workItem from="1488110862053" duration="12193000" />
+      <workItem from="1488192831417" duration="689000" />
+      <workItem from="1488284341398" duration="951000" />
+      <workItem from="1488683747879" duration="1493000" />
+      <workItem from="1488766858420" duration="5102000" />
+      <workItem from="1488809633208" duration="30987000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1487954497355</created>
@@ -854,28 +1023,35 @@
       <option name="project" value="LOCAL" />
       <updated>1488165288568</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add template method pattern">
+      <created>1488166449051</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488166449051</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26442000" />
+    <option name="totallyTimeSpent" value="67212000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="830" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="830" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.47711015" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5343348" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.46566522" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -885,8 +1061,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -911,11 +1087,12 @@
     <MESSAGE value="add phone example to decorator patter" />
     <MESSAGE value="add proxy pattern" />
     <MESSAGE value="add factory pattern and prototype pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="add factory pattern and prototype pattern" />
+    <MESSAGE value="add template method pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="add template method pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -924,244 +1101,81 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/phone/_Init_.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p12_state_pattern/tv/StopState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p12_state_pattern/tv/TVContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p12_state_pattern/tv/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/p11/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p11_abstract_factory_pattern/database_simple_factory/DataAccessUseReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashSuper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashNormal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/MulOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#184#185#0" expanded="false" />
-            <element signature="e#232#233#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p03_decorator_pattern/finery/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/GiveGift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/Girl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/Persuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/persuit_girl/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/InternetRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/ChinaComputer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/AmericaServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="74" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p04_proxy_pattern/proxy_internet/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/SubOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/AddFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/AddOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/DivFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/DivOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/IFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/MulFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/MulOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
@@ -1169,316 +1183,490 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/calculate/SubFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/VolunteerFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/SubOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/IFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashRebate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/OperationFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/DivOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Leifeng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Undergraduate.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/AddOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p01_simple_factory_pattern/calculate/MulOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Center.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/Volunteer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Forward.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="69">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#188#189#0" expanded="true" />
             <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p05_factory_method_pattern/leifeng/UndergraduateFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="211" column="20" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/student/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/DesignPattern/com/p06_prototype_pattern/mail_1/Attachment.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#335#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/DesignPattern/com/p05_factory_method_pattern/calculate/AddFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#500#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_1/Email.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="170" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_1/Attachment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/student/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/Translator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+        <state relative-caret-position="198">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-            <element signature="e#1079#1080#0" expanded="true" />
-            <element signature="e#1108#1109#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1185#1186#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1251#1252#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#1376#1377#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-            <element signature="e#1461#1462#0" expanded="true" />
-            <element signature="e#1505#1506#0" expanded="true" />
-            <element signature="e#1545#1546#0" expanded="true" />
-            <element signature="e#1581#1582#0" expanded="true" />
-            <element signature="e#1639#1640#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_2/Attachment.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_2/Email.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignForward.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="42" />
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_2/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p06_prototype_pattern/mail_1/_Init_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="26" column="77" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentAPaper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/StudentBPaper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/ExamPaper.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/ForeignCenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p13_adapter_pattern/nba/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/p07_template_method_pattern/Exam/_Init_.java">
+    <entry file="file://$PROJECT_DIR$/src/com/p14_memento_pattern/game/RoleStateMemento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p14_memento_pattern/game/GameRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1517#1518#0" expanded="true" />
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p14_memento_pattern/game/RoleStateCaretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p14_memento_pattern/game/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashContextUseReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#475#476#0" expanded="false" />
+            <element signature="e#525#526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6259">
+          <caret line="543" column="9" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="3180" column="57" selection-start-line="3180" selection-start-column="49" selection-end-line="3180" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p02_strategy_pattern/shop/CashContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#714#715#0" expanded="false" />
+            <element signature="e#764#765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-885">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#3380#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p16_iterator_pattern/list/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p16_iterator_pattern/list/ConcreteIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p16_iterator_pattern/list/ConcreteAggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="276" column="15" selection-start-line="276" selection-start-column="15" selection-end-line="276" selection-end-column="15" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#10189#10190#0" expanded="true" />
+            <element signature="e#10216#10217#0" expanded="true" />
+            <element signature="e#10907#10908#0" expanded="true" />
+            <element signature="e#10945#10946#0" expanded="true" />
+            <element signature="e#15414#15415#0" expanded="true" />
+            <element signature="e#15459#15460#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
+            <element signature="e#46390#46391#0" expanded="true" />
+            <element signature="e#46455#46456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p16_iterator_pattern/list/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="12" selection-start-column="34" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p16_iterator_pattern/list/Aggregate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#388#389#0" expanded="false" />
+            <element signature="e#420#421#0" expanded="false" />
+            <element signature="e#451#452#0" expanded="false" />
+            <element signature="e#478#479#0" expanded="false" />
+            <element signature="e#518#519#0" expanded="false" />
+            <element signature="e#550#551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/HRDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#204#205#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#405#406#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/FinanceDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/ConcreteCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#410#411#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#504#505#0" expanded="false" />
+            <element signature="e#544#545#0" expanded="false" />
+            <element signature="e#822#823#0" expanded="false" />
+            <element signature="e#875#876#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p15_composite_pattern/company/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetSoft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/PhoneSoft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MessageSoft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/HandSetBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/MBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+          <folding>
+            <marker date="1489113145000" expanded="true" signature="334:581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/p17_bridge_pattern/phone/_Init_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
